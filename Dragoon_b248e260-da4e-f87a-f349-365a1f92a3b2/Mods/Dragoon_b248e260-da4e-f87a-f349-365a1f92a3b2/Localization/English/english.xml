@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h031959ebg3481gf1degac81g4f0173cf62dc" version="9">Gae Bolg Animus</content>
+  <content contentuid="hf6ff0173g2a2agc914g68bcg55d457152073" version="9">An aged spear, its steel head nicked by the blows of a dozen battles. </content>
+  <content contentuid="h5cd503edge0bfg028fgb9afge29fcb628752" version="1">Spear</content>
+  <content contentuid="h070d825ag734fgc6c6gf083g51ab76a1fb56" version="1">An aged spear, its steel head nicked by the blows of a dozen battles. </content>
+  <content contentuid="h93774110gfe7eg4ea8g09f4g3208e290de81" version="2">Wyrm's Mail</content>
+  <content contentuid="h07c5e551gefdegdb7bg7443g41894c6a9f6e" version="2">Carixim, soul-stuffed forgemaster of hellish Avernus, hammers away ceaselessly at new creations. Questions of morality and destiny do not concern him. Conscience is for his betters. He works with cheer, his swollen skin moaning soothingly. </content>
+  <content contentuid="h9190522dg3dc9gf96agee65gac7fd2522558" version="5">Wyrm's Mail</content>
+  <content contentuid="h6379bddega1afg01e9g6ea8g4c03d315b334" version="5">Nightsong's armour is evocative of her personality - prickly, hardy, and about as agreeable as a clenched fist. </content>
+  <content contentuid="h7bdf3774g8736g98ddg1309g84925537c57c" version="2">Wyrm's Gauntlets</content>
+  <content contentuid="h1b40bdeag2ff6g009eg4b4dg944dca333bb7" version="2">Wyrm's Greaves</content>
+  <content contentuid="h67a98aaag250fg7d24gdcb7gc8c38b0ca7df" version="2">Wyrm's Armet</content>
+  <content contentuid="h3e140f05gf04dgd21bg8ae6g60b02f98e1e3" version="2">Kobold's fashion these sorts of wings to their helms when they wear armour - for it emulates the dragons they worship.</content>
+  <content contentuid="h1c0304f4gb18bga964g3a21g9e1f9465e2b9" version="1">Animus Effects</content>
+  <content contentuid="h1e88c549gdbf3g1415g0001g2348021e8b39" version="1">Apply Animus Effects to the Gae Bolg, giving it a blue glow.</content>
+  <content contentuid="h36c86db1g8e97gdc15g6994g7aa9a5e1de94" version="2">Vorpal Thrust</content>
+  <content contentuid="ha3825d73gec10gcddfg5f36ga483ce3deac8" version="2">Make a melee attack with your equipped weapon, dealing additional damage equal to half your Dexterity Modifier.</content>
+  <content contentuid="ha64dba08g396fgc665g4b1egbcce6f994b7f" version="2">True Thrust</content>
+  <content contentuid="h4981795bg321cg223bg130eg77331fe25644" version="2">Make a melee attack with your equipped weapon. Allows you to follow-up with the next attack in your rotation.</content>
+  <content contentuid="ha1485b56g878cgeab9g007agd2cd5a001740" version="2">Full Thrust</content>
+  <content contentuid="h4ebb94c9gc6acg2bf5g61e2gf0a1de03c53f" version="2">Make a melee attack with your equipped weapon, dealing additional damage equal to your Dexterity Modifier.</content>
+  <content contentuid="hba0f7e36g1a90g8e68gc8bcg3550affaf0e0" version="2">Disembowel</content>
+  <content contentuid="h14b4d5b0gf6d9g28b9g6de1gb8612373e506" version="3">Make a melee attack with your equipped weapon. Grants &lt;LSTag Type="Status" Tooltip="POWERSURGE"&gt;Power Surge&lt;/LSTag&gt;.</content>
+  <content contentuid="hb3fe2a3dgde0ag08a4gc3dbg65e1db69f0ae" version="2">Chaos Thrust</content>
+  <content contentuid="haa3ccd3fgbc2cg1535g36cag8898dcdb95f3" version="2">Make a melee attack with your equipped weapon, inflicting &lt;LSTag Type="Status" Tooltip="CHAOSPIERCE"&gt;Chaos Thrust&lt;/LSTag&gt; on your target.</content>
+  <content contentuid="h75712023g7c53g3e17g2b2bg0f095a821a8f" version="2">Chaotic Spring</content>
+  <content contentuid="h8f64ff9fg5d3fgaf1eg426fgcfcb8aafe2e8" version="2">Make a melee attack with your equipped weapon, inflicting &lt;LSTag Type="Status" Tooltip="CHAOTICPIERCE"&gt;Chaotic Thrust&lt;/LSTag&gt; on your target.</content>
+  <content contentuid="h6f4b4441gaa34g59c2g5f8ag90c852798b6c" version="2">Fang And Claw</content>
+  <content contentuid="h8f9fd366gb9bagaae3gbfe3g06f5299416d9" version="2">Make a melee attack with your equipped weapon, inflicting &lt;LSTag Type="Status" Tooltip="FANGDEFENSE"&gt;Bitten and Clawed&lt;/LSTag&gt; on your target</content>
+  <content contentuid="hf5b3b36fgbe19ge76dg0483g02820e2ff5d3" version="2">Wheeling Thrust</content>
+  <content contentuid="h9cf414eagda30g57a9gfd2fg34cd3f0f8784" version="2">Make a melee attack with your equipped weapon, inflicting &lt;LSTag Type="Status" Tooltip="WHEELINGLOWER"&gt;Wheeling Grip&lt;/LSTag&gt; on your target.</content>
+  <content contentuid="h8bbff23dg2ccag4c75gb437g590959c8c23f" version="2">Lance Barrage</content>
+  <content contentuid="hd01f3bcfgabf1ga6bbg47f3g3b4dc424054b" version="2">Make a melee attack with your equipped weapon, dealing additional damage equal to half your Dexterity Modifier.</content>
+  <content contentuid="h1d43b6d8g66b3gafc6gbb2cgca185dcbacb5" version="2">Raiden Thrust</content>
+  <content contentuid="h1c2afc7cga50cg4d24g943dg571f67382b66" version="3">Make a melee attack with your equipped weapon. Deals double your melee damage and grants a Firstminds' Focus.</content>
+  <content contentuid="h39bfe15bg58fcgeeb8gfa5cg00185efc5661" version="2">Heavens' Thrust</content>
+  <content contentuid="h2aafc02fg4dabg767bgbbb5gafee9156db37" version="2">Make a melee attack with your equipped weapon, dealing additional damage equal to 1.5 times your Dexterity Modifier.</content>
+  <content contentuid="h5ff5370cg4529g227fg8fd1g0888497edf83" version="2">Spiral Blow</content>
+  <content contentuid="he29b5189g2573gd5bdge609ga431833ce48b" version="2">Make a melee attack with your equipped weapon. Grants &lt;LSTag Type="Status" Tooltip="POWERSURGE"&gt;Power Surge&lt;/LSTag&gt;.</content>
+  <content contentuid="hd4ede1bag1b00g8d7eg25d4g6aecd7e8d9b1" version="1">Drakesbane</content>
+  <content contentuid="h063858e5g490bg66ffg2ab8ge5df24cf8db5" version="2">Make a melee attack with your equipped weapon. Grants &lt;LSTag Type="Status" Tooltip="DRACONFIRE"&gt;Draconian Fire&lt;/LSTag&gt;.</content>
+  <content contentuid="h3a44c1cdgfda0g206bg9eccg31d6f5278388" version="2">Tester</content>
+  <content contentuid="h96b15c77ge802g22bbg472cg9f0f8af82a17" version="1">Make a melee attack with your equipped weapon.</content>
+  <content contentuid="h7c9c46b3ge88dg8903gdb5ag4097bf9cf9e4" version="2">Doom Spike</content>
+  <content contentuid="h49d05810gf683g9fefg3f1eg6992ebfa135e" version="2">Attack enemies in front of you. Allows you to follow up with the next attack in your AOE rotation.</content>
+  <content contentuid="h1ac2fb79g54b4ga3a8g6a61g5f61a234d671" version="2">Sonic Thrust</content>
+  <content contentuid="h61ccfd38g9d46g04f5gb188g35bc3a884877" version="2">Attack enemies in front of you. Grants &lt;LSTag Type="Status" Tooltip="POWERSURGE"&gt;Power Surge&lt;/LSTag&gt;.</content>
+  <content contentuid="he56af02cg0924gf3b2gec60g28b7cb343a1e" version="2">Coerthan Torment</content>
+  <content contentuid="h3dd135a3gb368g7311g4cd4g5ff6cc5f8117" version="2">Attack enemies in front of you. Grants &lt;LSTag Type="Status" Tooltip="DRACONFIRE"&gt;Draconian Fire&lt;/LSTag&gt;.</content>
+  <content contentuid="he53ae89agc1d9g03a2g92fegfb468038e61f" version="2">Draconian Fury</content>
+  <content contentuid="hb72bfbacg9872g75e9g7345g566544b0978d" version="3">Attack enemies in front of you and grants a Firstminds' Focus.</content>
+  <content contentuid="h01106623gfda1g9c6ag9ea3g491c54a25198" version="2">Wyrmwind Thrust</content>
+  <content contentuid="hbaa0f546g2da6g80c0g1f78gd85187bd559f" version="2">Attack enemies in front of you. Deals 1.5 times your melee damage.</content>
+  <content contentuid="hd2d868acg2312g2a1agcda3g1df13c6ff328" version="2">Geirskogul</content>
+  <content contentuid="ha2afd655g8df0gf215gf14fgef1cec8b147e" version="2">Attack enemies in front of you. Grants &lt;LSTag Type="Status" Tooltip="LIFEOFDRAGON"&gt;Life of the Dragon&lt;/LSTag&gt;.</content>
+  <content contentuid="h871baaf4gb441g5e72g99c1g41cadc361086" version="2">Nastrond</content>
+  <content contentuid="hbbcdf0d2g678ag4984g7754g1ad25fc19866" version="2">Attack enemies in front of you. Deals damage equal to 3 times your dexterity modifier.</content>
+  <content contentuid="hd2501852gd0d9g2fd9g69b2g690f1184be8d" version="1">Draconian Fire</content>
+  <content contentuid="h309c4fb5g2b44g5311g34b6g957e48f6b2d2" version="2">Allows usage of &lt;LSTag Type="Spell" Tooltip="Target_RaidenThrust"&gt;Raiden Thrust&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Zone_DraconianFury"&gt;Draconian Fury&lt;/LSTag&gt;.</content>
+  <content contentuid="h808b3c43g6219ge7fbg0b4eg1b9c318e0536" version="1">Combo Rotation</content>
+  <content contentuid="h3a088074gcfbdgf1cegfe6dged9219379576" version="1">Combo Rotation</content>
+  <content contentuid="h16c788bfg59a5g6fa3g0878g03fcb21fc461" version="1">Combo Rotation</content>
+  <content contentuid="hc69956d3gcc67g3e78gaf93gfad2a30bc473" version="1">Combo Rotation</content>
+  <content contentuid="h67670304gfd70g1c36g6a31g3978a4741860" version="1">Combo Rotation</content>
+  <content contentuid="h2e5105a2g3b5dgcc7cgc76dgbb13fe3c8443" version="1">Combo Rotation</content>
+  <content contentuid="hbf46d649g7b54g9f93g7dd4g7065e988e023" version="1">Combo Rotation</content>
+  <content contentuid="h4f42cc5ag9d40g85c1g6f9cg1000e07e00c8" version="1">Combo Rotation</content>
+  <content contentuid="heddea2c8geeaagd983g0fb0g417ef14b37c8" version="1">Combo Rotation</content>
+  <content contentuid="hcc6d5537gc42bg4ea4g10d3gd007a098191a" version="1">Combo Rotation</content>
+  <content contentuid="hd7f90980gfe95g3398gb5f0ge6a48ee8e4eb" version="1">Combo Rotation</content>
+  <content contentuid="hc0afaf17g6b23g29d7gedacgdb31b5f956c2" version="1">Combo Rotation</content>
+  <content contentuid="h4092ca35g3f5egc9fegcc8dg19e97a488cae" version="1">Combo Rotation</content>
+  <content contentuid="h73ea2cf0g25b9g88d5g4c19ga98d68261529" version="1">AOE Rotation</content>
+  <content contentuid="h2c4fc18eg4bf3gda07gd18bga5d022bdfe0c" version="1">AOE Rotation</content>
+  <content contentuid="h3344cbfeg9c5agf224g8219gbd2778fe00cc" version="1">Firstmind's Focus</content>
+  <content contentuid="hc95ffc86g2159ga12ag9eafgf82993bdaa50" version="1">The eyes of the First Brood allow you to perform &lt;LSTag Type="Spell" Tooltip="Zone_WyrmwindThrust"&gt;Wyrmwind Thrust&lt;/LSTag&gt;.</content>
+  <content contentuid="h42894b22gd912gcfc7g8690gf997a5b47d1c" version="1">Not enough.</content>
+  <content contentuid="hfdd3feddga9ffgb752g4205g572ddbe88a87" version="1">Power Surge</content>
+  <content contentuid="h9df7ee91g1b34g256fg0969gb0d741790218" version="1">Affected entity has +1 to damage.</content>
+  <content contentuid="h2dadda6aga9f0gf3d3gea24g6327cd236b2b" version="1">Chaos Thrust</content>
+  <content contentuid="h548dd429gf09egc75ag9f8fgec190e4261e2" version="1">Takes [1] at the start of each turn and has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Removed by healing.</content>
+  <content contentuid="h1ec46fe1gdb89g8cc9g608eg79b0361f3e2c" version="1">Chaotic Thrust</content>
+  <content contentuid="h4c1512c7g13aag326ag5fa8g05cd6d6c96f3" version="1">Takes [1] at the start of each turn and has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Removed by healing.</content>
+  <content contentuid="hf0083ab7gb9e0gb1a3g686bgb23c22422173" version="1">Bitten and Clawed</content>
+  <content contentuid="h60aaddceg0602gec73g9410gc3886e4452c4" version="2">&lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by 2.</content>
+  <content contentuid="h65301790g5539gaba3g2727gb0fec6f115ff" version="1">Wheeling Grip</content>
+  <content contentuid="h2d1e27e1g35fcg5e9bg0fb2ge8456db4bf1c" version="1">Entity has -2 to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="h580df885gc36bg9bd5g4dd3g52a25ed76161" version="1">%%% EMPTY</content>
+  <content contentuid="h83d73812g7484g6348g33d0gf5c495eaf106" version="1">Life Surge Refill</content>
+  <content contentuid="h5ee2b3bfg2eddg5abeg93d4gdfa6b5360d70" version="1">Life Surge</content>
+  <content contentuid="h130df2d0g78f1g4a11g2abdg83c37cbd9175" version="1">Once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;, you can change a successful &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against a foe into a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.</content>
+  <content contentuid="h094647e7g5447g5bf5gb202g6e12432fa651" version="1">Enhanced Life Surge</content>
+  <content contentuid="h0be287a4g36f4gb198g1ad8gfdd875b5f7db" version="1">Twice per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;, you can change a successful &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against a foe into a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.</content>
+  <content contentuid="hc40d9aebg316cg648dgce3eg2c8b3c43a7a0" version="1">Life Surge</content>
+  <content contentuid="h8fab0f30g8cacg7550gc42dg30fd85a6e15b" version="1">When you make a successful &lt;LSTag Tooltip="AttackRolls"&gt;Attack Roll&lt;/LSTag&gt; against a foe,  you can change that hit into a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.</content>
+  <content contentuid="h948b3f93ga79fgf957gf3a8g0f2b74c90b7f" version="1">Lance Charge</content>
+  <content contentuid="ha3d6b1e9gb84cgcaf6g73f7g03d782f31e35" version="1">Your lance guides you. Gain +2 to damage dealt.</content>
+  <content contentuid="hadbd7b63gc6e6ged2fgea22g9f25068989c2" version="1">Lance Charge</content>
+  <content contentuid="h300cc952g1eceg9fd2g4703g874d56f48340" version="1">Affected entity has +2 to damage.</content>
+  <content contentuid="h29334291g71a9g3c1ageec5g330180309e25" version="1">Battle Litany</content>
+  <content contentuid="hbf104d7egbc8bg26bagebb3gbfad19d95fc6" version="1">Reduce the number you and your allies need to roll a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; while attacking by 1. This effect can stack.</content>
+  <content contentuid="hf6c1dad1g3ff7gcd95g9b5fg93bc6902d97c" version="1">Battle Litany</content>
+  <content contentuid="hf0763d50g558ag77c9g66b1g01d38fa6d3b4" version="1">The number you need to roll a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; is reduced by 1.</content>
+  <content contentuid="hbab29d81g12ddg9197g6005g576919ad03ff" version="1">Life of the Dragon</content>
+  <content contentuid="hf6e08656g37b4ge37cg3ee4g3781eaf43b2d" version="1">Affected entity has +2 to damage.</content>
+  <content contentuid="haeaebc0egb193gdb5dgca97ge4f812652505" version="1">Nastrond Ready</content>
+  <content contentuid="hb3bb4cd2gd520gda86g081fg938c29348118" version="1">Jump up, piercing your foe with your weapon. Your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; modifier affects how far you can jump as well as the damage dealt.</content>
+  <content contentuid="h85d487bfg1ec0g375cg10a9gc7817f48a48e" version="1">Mirage Dive</content>
+  <content contentuid="h3d44ff89gfbd1g94efg22cbgfc9d8bbf57f7" version="1">Cause a draconic mirage to attack an enemy.</content>
+  <content contentuid="h918e7ec1g7506gd6e9ge680ge80e5d3ac744" version="1">Jump up, piercing your foe with your weapon. Your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; modifier affects how far you can jump as well as the damage dealt.</content>
+  <content contentuid="h47e2a742g1df1gc8eag4348g248c363bf7c9" version="1">High Jump</content>
+  <content contentuid="h9995fb18g8ca3ga04fg1055g13e3d29a1c18" version="1">Dive Ready</content>
+  <content contentuid="h0620a964gc0b0g8a16g911bgc8c267a83379" version="1">Allows usage of &lt;LSTag Type="Spell" Tooltip="Target_MirageDive"&gt;Mirage Dive&lt;/LSTag&gt;</content>
+  <content contentuid="h4c1ca4f8g94cbg566eg9c0bg7bdedf5ba62d" version="1">Jump to an area, causing dragonfire to burst forth at enemies nearby.</content>
+  <content contentuid="hb7802c95g9bffg795bg6785ge92f5013ad8c" version="1">Dragonfire Dive</content>
+  <content contentuid="hb8edf237gf858gfac3g9401g1940bc55ca63" version="1">Dragonfire Explosion</content>
+  <content contentuid="hf9f396c0g1d78g254egb301g27e78617119f" version="1">Dragon's Flight</content>
+  <content contentuid="hd3e3a645gb2c6g539fg3fb3gc5e68b5b33b2" version="1">Allows usage of &lt;LSTag Type="Spell" Tooltip="Target_DragonRise"&gt;Rise of the Dragon&lt;/LSTag&gt;</content>
+  <content contentuid="he439b797g277fgb4ccg42bdg49deb59d1309" version="1">Rise of the Dragon</content>
+  <content contentuid="hc2b59804gf0aag446dg36f5g640f446f7dbb" version="1">A blast of draconic energy rises into the sky, damaging all enemies near the target.</content>
+  <content contentuid="hd4429e8agb47egd9a3ga9b1g184d43bc283d" version="1">Jump to an area, causing the force of a star to burst forth at enemies nearby.</content>
+  <content contentuid="hef1e2ea4gefffg4ec3gccdegb04b0e6ea0a3" version="1">Star Diver</content>
+  <content contentuid="h3eb64e7agfdb8gf4acgbd5fg5f3987829ff8" version="1">Dragonfire Explosion</content>
+  <content contentuid="h0037c1e3g1432g0b49g7fefg5ebaa0f65230" version="1">Dragonfire Explosion</content>
+  <content contentuid="h1e5b6f31gf68cg4b0bg38bagc3f5e58c0dd6" version="1">Jump to an area, causing the brilliance of a star to burst forth at enemies nearby.</content>
+  <content contentuid="h263199bdgcaeeg3983g7a91g406b5f038f9d" version="1">Starcross</content>
+  <content contentuid="h7357f8b1g288cg1c45g39fegcd5a995e9dd8" version="1">Starcross Ready</content>
+  <content contentuid="hb1d9369cg0737g6869gc06dg70580e9b3013" version="1">Allows usage of &lt;LSTag Type="Spell" Tooltip="Projectile_Starcross"&gt;Starcross&lt;/LSTag&gt;</content>
+  <content contentuid="h43cba48bg7b94gfc34g8405gfb65ea8ca0b9" version="1">Azure Dragoon</content>
+  <content contentuid="hfbd8bb26g50afg08f3g732dgddd0d347a763" version="1">Dragoon</content>
+  <content contentuid="hf6e7ecfdg1b0dg9e97g89d7gce2eb512b9d4" version="2">Aerial Ace</content>
+  <content contentuid="h109a605ag3a4bg2a71gc686g0cfd7fdc06f8" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against Dragon and most Winged type enemies. </content>
+  <content contentuid="h215a4b48g4f8bga40agfdfcg6d82a10d5e1c" version="1">Dragoon's Leap</content>
+  <content contentuid="h2a8b29ecged2bg1144g6d8ege6589276d4c9" version="1">Your jumping distance is doubled.</content>
+  <content contentuid="h1204d9d6g994ag2d1fg7a60g2db9797fbef8" version="1">Firstmind's Focus</content>
+  <content contentuid="h4a9418c8g5274gc780g3e6bg962416071e45" version="1">Unlock the eyes of the First Brood.</content>
+  <content contentuid="h0dec3998g53d2gb464g1a18g12f6c8c9ac81" version="1">Blinded Thrust</content>
+  <content contentuid="h4ce6a831gce5eg4e70gb4cdge36a3cfe72d3" version="1">Affected entity is &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Piercing damage, or loses its Piercing&lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt;.</content>
+  <content contentuid="h13e58a0cg7ac9gbf5fg55fcg47c368a8f15c" version="1">Blinding Point</content>
+  <content contentuid="h3721ae88g7dffgb84cg77acgaf2b45b2ffaf" version="1">Each hit with this weapon may &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blind&lt;/LSTag&gt; your target. Hitting a &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blind&lt;/LSTag&gt; creature will give them &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerability&lt;/LSTag&gt; to Piercing damage.</content>
+  <content contentuid="hdcd0a276g773bg858bg4b28gc40015553877" version="1">Pierce the Hide</content>
+  <content contentuid="h872638b1gd049g3dcag02b4ge454fdeb17c2" version="1">The number you need to roll a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; is reduced by 1.</content>
+  <content contentuid="h45bf33aegda8fg49a7g1131gbb7955f5b84e" version="1">Dragon Slayer</content>
+  <content contentuid="h78aca443gfd57g485cg15acgf0ced947f6f4" version="2">Your dragoon jump attacks can &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stunn&lt;/LSTag&gt; Dragons and Dragonborn for 1 turn.</content>
+  <content contentuid="h3918ade7ga010g2b52g2f4eg3d8855d8c19b" version="1">Hide Pierced</content>
+  <content contentuid="hb4f799bfg0b4ege5edgdcc0ge877c53c3903" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by 2.</content>
+  <content contentuid="he30252d1g9893g2a1eg4ebcg5b558f74e6c3" version="1">Combo Rotation</content>
+  <content contentuid="ha0a6b80dgb968g3f3bg4ba7g01367ca06d1f" version="1">Using &lt;LSTag Type="Spell" Tooltip="Target_TrueThrust"&gt;True Thrust&lt;/LSTag&gt; will allow you to use the next attack in your rotation, giving you two branching paths to take. As you level up, new attacks will frequently become available in each rotation path.</content>
+  <content contentuid="h4e20b2d9g693dg26eeg968cg806d04e0d8d3" version="1">BattleCharge</content>
+  <content contentuid="h88a6fd00g217fgcca3gf883g346773cc0cf7" version="1">AOE Combo Rotation</content>
+  <content contentuid="h00b414f7gf8a5g5147gca09geec527110dac" version="2">Using &lt;LSTag Type="Spell" Tooltip="Zone_DoomSpike"&gt;Doom Spike&lt;/LSTag&gt; will allow you to use the next attack in your AOE rotation. As you level up, new attacks will become available at levels 5 and 9.</content>
+  <content contentuid="h45aa373cgaaf7g33d9g491bg9fb7f7be83ba" version="1">Rise of the Dragon</content>
+  <content contentuid="h2fe355ccg14b2ga943g7992g5a917e93cfe2" version="2">Using &lt;LSTag Type="Spell" Tooltip="Projectile_DragonfireDive"&gt;Dragonfire Dive&lt;/LSTag&gt; will allow the use of &lt;LSTag Type="Spell" Tooltip="Target_DragonRise"&gt;Rise of the Dragon&lt;/LSTag&gt;.</content>
+  <content contentuid="he993620egb3b9g8ea0g1322g9d06e7acb343" version="1">Starcross Ready</content>
+  <content contentuid="h5126ab40ge8e3g28cfg8f5fg85bf1c08583b" version="1">Using &lt;LSTag Type="Spell" Tooltip="Projectile_StarDiver"&gt;StarDiver&lt;/LSTag&gt; will allow the use of &lt;LSTag Type="Spell" Tooltip="Projectile_Starcross"&gt;Starcross&lt;/LSTag&gt;.</content>
+  <content contentuid="h85ec39dag4c84g8dbdg3098geaced6de4d3d" version="1">Mirage Dive</content>
+  <content contentuid="h56c55f64gb5c9gcc67ga895g359874392d30" version="1">Using &lt;LSTag Type="Spell" Tooltip="Projectile_HighJump_Dragoon"&gt;High Jump&lt;/LSTag&gt; will allow the use of &lt;LSTag Type="Spell" Tooltip="Target_MirageDive"&gt;Mirage Dive&lt;/LSTag&gt; once per combat.</content>
+  <content contentuid="he733c7c7g78b9g6799gc573g5fc0765c62b6" version="1">Nastrond Ready</content>
+  <content contentuid="h88450211g8729g1910g3ea5gac774c31c610" version="1">Using &lt;LSTag Type="Spell" Tooltip="Zone_Geirskogul"&gt;Geirskogul&lt;/LSTag&gt; will allow the use of &lt;LSTag Type="Spell" Tooltip="Zone_Nastrond"&gt;Nastrond&lt;/LSTag&gt;.</content>
+  <content contentuid="h1fc93bcbg49afg69b9gea6dg0bc4dfdf3f67" version="1">Nidhogg's Hatred</content>
+  <content contentuid="hfed4903egc515g9b29g52c3g968757cc4bbc" version="1">Wearer has been corrupted by Nidhogg's anger. It will attack the nearest creature on its turn. </content>
+  <content contentuid="h14fc59c3g6522g1a49g8f50g255750d99fca" version="1">Affected entity has +3 to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and damage.&lt;br&gt;&lt;br&gt;At the start of the summoned creature's turn, it must succeed a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or be driven &lt;LSTag Type="Status" Tooltip="CROWN_OF_MADNESS"&gt;Mad&lt;/LSTag&gt;.</content>
+  <content contentuid="hfac3f3d3ga4adgce21g88afg85f6a8774cf3" version="1">Power of the First Brood</content>
+  <content contentuid="h2d463a07g6b67gae1cg3e53gae2401070dcf" version="1">Nidhogg's Eyes</content>
+  <content contentuid="h7b2fdef0gbe91g6fc8gfde5g9476022786a1" version="1">The wearer has +3 to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and damage.&lt;br&gt;&lt;br&gt;At the start of the summoned creature's turn, the wearer must succeed a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or be driven &lt;LSTag Type="Status" Tooltip="CROWN_OF_MADNESS"&gt;Mad&lt;/LSTag&gt;.</content>
+  <content contentuid="h0a797237g56f6gc340g9006g69333da34ffd" version="1">Dragoon Armament</content>
+  <content contentuid="hc33f2266g0426gb178g1b47g89eb5f257c1d" version="1">Gain +3 to your Dexterity when wielding a spear, haldberd, or glaive.</content>
+  <content contentuid="h148d05e7gb4b9g7aadgf92dgdeaf12f0870f" version="1">True North</content>
+  <content contentuid="hd468e933gababgbe4bg78b2g466934ace889" version="1">Moving won't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; for 3 turns.</content>
+  <content contentuid="h6554bfe7g3996g982bgfa60gb915c888782d" version="1">Dragon Scales</content>
+  <content contentuid="h653c9d14g5bb1ga7d1ge489g1346affbf71d" version="1">Reduce damage taken by 2. Spell &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+  <content contentuid="h6edee444gf15eg8a01gf64fg0afbb130e47f" version="1">Draconic Bravery</content>
+  <content contentuid="hf853ed35g3247g3403ge435g494868d7ce09" version="1">You can't be &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; or disarmed.</content>
+  <content contentuid="h362e3b46g5bc1gbc46g910bg6c1dae52dd4c" version="1">Downing Strike</content>
+  <content contentuid="h0a21f306gb83egedf4g44aag08c700522116" version="7">Deal an additional 2 damage to targets affected by most flight spells.</content>
+  <content contentuid="hcfa21654g73d6gfcc7gaa43g03bd3bd2856d" version="1">Flightless Leap</content>
+  <content contentuid="hd45e1c54ga444gb262gee97g60480004b334" version="2">Ignore fall damage. After &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;Dashing&lt;/LSTag&gt;, double your jump distance.</content>
+  <content contentuid="h11ad2278gd462gd13ag0f6dgbe1ac0ce6c79" version="1">Jump</content>
+  <content contentuid="h42d0f254gba4cg9b3cg8bb9g09c390acb462" version="1">Jump Upgrade</content>
+  <content contentuid="hb05d4e67g2892gc246g23a9gc18bf1ff101b" version="1">&lt;LSTag Type="Spell" Tooltip="Projectile_Jump_Dragoon"&gt;Jump&lt;/LSTag&gt; has been upgraded to &lt;LSTag Type="Spell" Tooltip="Projectile_HighJump_Dragoon"&gt;High Jump&lt;/LSTag&gt;.</content>
+  <content contentuid="h792c76a6g2814gf363g61a1g75bdc505b40c" version="1">Full Thrust Upgrade</content>
+  <content contentuid="hce0d949dg4729gbf6dg721cgb01142042c04" version="1">&lt;LSTag Type="Spell" Tooltip="Target_FullThrust"&gt;Full Thrust&lt;/LSTag&gt; has been upgraded to &lt;LSTag Type="Spell" Tooltip="Target_HeavenThrust"&gt;Heaven Thrust&lt;/LSTag&gt;.</content>
+  <content contentuid="h912d9358gfa2dg9543g0fbdg9cc2dbbe3b7e" version="1">Chaos Thrust Upgrade</content>
+  <content contentuid="h0a39e173g199bgb259gb464gfa677f357b8f" version="1">&lt;LSTag Type="Spell" Tooltip="Target_ChaosThrust"&gt;Chaos Thrust&lt;/LSTag&gt; has been upgraded to &lt;LSTag Type="Spell" Tooltip="Target_ChaoticSpring"&gt;Chaotic Spring&lt;/LSTag&gt;.</content>
+  <content contentuid="h3444b651ge17dge485g5b44g57949de1e9ef" version="1">Vorpal Thrust Upgrade</content>
+  <content contentuid="h601474ffg814dg04cbgc1bagdcfc4d851f4b" version="1">&lt;LSTag Type="Spell" Tooltip="Target_VorpalThrust"&gt;Vorpal Thrust&lt;/LSTag&gt; has been upgraded to &lt;LSTag Type="Spell" Tooltip="Target_LanceBarrage"&gt;Lance Barrage&lt;/LSTag&gt;.</content>
+  <content contentuid="hae24b822g42a0g4da6g86f4gd4cb3d1b29d6" version="1">Disembowel Upgrade</content>
+  <content contentuid="h6cc76386g250eg96d0g5c52gf2395fa7fb8e" version="1">&lt;LSTag Type="Spell" Tooltip="Target_DisembowelDRG"&gt;Disembowel&lt;/LSTag&gt; has been upgraded to &lt;LSTag Type="Spell" Tooltip="Target_SpiralBlow"&gt;Spiral Blow&lt;/LSTag&gt;.</content>
+  <content contentuid="hc44599f0g32abg815dgfc41g37c36f1097b2" version="1">Jump Upgrade</content>
+  <content contentuid="h46a4059ag533eg0f24gd19eged687b778c15" version="1">&lt;LSTag Type="Spell" Tooltip="Projectile_Jump_Dragoon"&gt;Jump&lt;/LSTag&gt; has been upgraded to &lt;LSTag Type="Spell" Tooltip="Projectile_HighJump_Dragoon"&gt;High Jump&lt;/LSTag&gt;.</content>
+  <content contentuid="h4fb07012g49b4gf12fg389eg2912a3862427" version="1">AOE Combo Rotation</content>
+  <content contentuid="h2b9d6eb4g7180ge695g41b5gc7fc73d4c5eb" version="1">Using &lt;LSTag Type="Spell" Tooltip="Zone_DoomSpike"&gt;Doom Spike&lt;/LSTag&gt; will allow you to use the next attack in your AOE rotation. As you level up, new attacks will become available at levels 5 and 9.</content>
+  <content contentuid="h826c0102gee88g476fg45b5gc574e990632a" version="1">Combo Rotation</content>
+  <content contentuid="h55e041d1gda3egba96g7bb3geadcac7e365b" version="1">Using &lt;LSTag Type="Spell" Tooltip="Target_TrueThrust"&gt;True Thrust&lt;/LSTag&gt; will allow you to use the next attack in your rotation, giving you two branching paths to take. As you level up, new attacks will frequently become available in each rotation path.</content>
+  <content contentuid="h69181becga539g9019g0010g777759f88d17" version="1">Grounded</content>
+  <content contentuid="h71d220dag74a6g6bb4geeb3g02b7273a1fc6" version="1">Prevent most enemies from using flight spells or conditions. Does not work against character with innate flying.</content>
+  <content contentuid="h1ce47b49g3e08gd0dfg80c3gf5f5eddce2ef" version="1">Breath Resistance</content>
+  <content contentuid="h3ae7bef1ga7d4g3633gb071g150818e2a13a" version="1">You gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Fire and Lightning damage.</content>
+</contentList>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="7031e36e-437c-4630-b7b7-f9865f2c4007" OwnerUUID="00000000-0000-0000-0000-000000000000" Name="RaidenThrustCast">
+  <EffectInfo UUID="ec9c1cd2-460b-4930-98d8-cc037e9e2a44" EffectResourceGuid="e719d4e8-d12e-c08f-8913-a7e6977aeaac" DetachSource="true" DetachTarget="true" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="true" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" StartTextKey="VFX_Slash_Cast_01" DamageType="None" VerbalIntent="None" TargetBone="Dummy_CastFX" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>

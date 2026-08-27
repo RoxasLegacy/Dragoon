@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a86b6e82-0a7f-47cb-bff1-a0a6d161fa30">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1d7a8f61-d322-485a-b84d-a597f73bf65c" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DRGFFXIV" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h43cba48bg7b94gfc34g8405gfb65ea8ca0b9" version="1" />
+        <field name="ShortName" type="TranslatedStringTableFieldDefinition" handle="hfbd8bb26g50afg08f3g732dgddd0d347a763" version="1" />
+        <field name="ProgressionTableUUID" type="GuidTableFieldDefinition" value="50f0c603-48f9-449f-adc7-15b79a2fa863" />
+        <field name="PrimaryAbility" type="EnumerationTableFieldDefinition" value="Strength" enumeration_type_name="Ability" version="1" />
+        <field name="SpellCastingAbility" type="EnumerationTableFieldDefinition" value="Strength" enumeration_type_name="Ability" version="1" />
+        <field name="MustPrepareSpells" type="BoolTableFieldDefinition" value="False" />
+        <field name="CanLearnSpells" type="BoolTableFieldDefinition" value="False" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0" />
+        <field name="CharacterCreationPose" type="GuidTableFieldDefinition" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+        <field name="BaseHp" type="IntegerTableFieldDefinition" value="10" />
+        <field name="HpPerLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="CommonHotbarColumns" type="IntegerTableFieldDefinition" value="9" />
+        <field name="ClassHotbarColumns" type="IntegerTableFieldDefinition" value="5" />
+        <field name="ItemsHotbarColumns" type="IntegerTableFieldDefinition" value="2" />
+        <field name="ClassEquipment" type="FixedStringTableFieldDefinition" value="EQP_DRG" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

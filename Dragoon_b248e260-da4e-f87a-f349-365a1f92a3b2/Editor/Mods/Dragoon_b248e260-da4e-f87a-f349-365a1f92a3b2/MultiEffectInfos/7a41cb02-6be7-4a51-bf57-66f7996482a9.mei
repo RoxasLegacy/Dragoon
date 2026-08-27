@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="7a41cb02-6be7-4a51-bf57-66f7996482a9" OwnerUUID="00000000-0000-0000-0000-000000000000" Name="LanceCharge_StatusEffect">
+  <EffectInfo UUID="018d0354-9ec0-4f71-b633-9f1f2a6ea7d2" EffectResourceGuid="68f19cd3-4edc-def3-9698-009a24491031" DetachSource="false" DetachTarget="false" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="true" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" DamageType="None" VerbalIntent="None" TargetBone="Dummy_BodyFX" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="af6ec528-a818-497d-b00d-5da1d6d81a6d" OwnerUUID="00000000-0000-0000-0000-000000000000" Name="WheelingThrustCast">
+  <EffectInfo UUID="be8ba6d9-5c0a-4617-b560-c2a756cb70de" EffectResourceGuid="c8992bb9-2c87-5548-7edd-1d37add09560" DetachSource="true" DetachTarget="true" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="true" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" StartTextKey="VFX_Slash_Cast_01" DamageType="None" VerbalIntent="None" TargetBone="Dummy_CastFX" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>

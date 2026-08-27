@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="7b3e5d55-79e7-4c79-a045-65832047778a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a8c6a5f5-721f-437d-8217-075869242a91" />
+        <field name="Name" type="NameTableFieldDefinition" value="DRG Skills" />
+        <field name="Skills" type="StringTableFieldDefinition" value="Acrobatics, Athletics, Intimidation, Nature, Survival" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

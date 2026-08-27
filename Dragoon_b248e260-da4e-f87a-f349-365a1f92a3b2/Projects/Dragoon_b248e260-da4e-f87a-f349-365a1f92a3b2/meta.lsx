@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="b248e260-da4e-f87a-f349-365a1f92a3b2"/>
+            <attribute id="Name" type="LSString" value="Dragoon"/>
+            <attribute id="UUID" type="LSString" value="fd1d1370-4100-95e8-941c-8926af9cd1c8"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

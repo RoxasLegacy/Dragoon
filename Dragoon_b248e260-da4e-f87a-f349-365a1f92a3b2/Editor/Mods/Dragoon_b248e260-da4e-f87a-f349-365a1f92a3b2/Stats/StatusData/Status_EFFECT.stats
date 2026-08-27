@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="afc508da-dd39-4821-b0af-9955e5e2f087">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="83e016ea-93c0-409d-8212-4410b1a7f285" />
+        <field name="Name" type="NameTableFieldDefinition" value="GAEBOLG" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="e6c1c3b4-afd6-494c-895c-1e7291741d7f" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d415bdbb-c3cc-417e-b2f4-00b829b18e72" />
+        <field name="Name" type="NameTableFieldDefinition" value="GAEBOLGOFF" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(GAEBOLG)" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

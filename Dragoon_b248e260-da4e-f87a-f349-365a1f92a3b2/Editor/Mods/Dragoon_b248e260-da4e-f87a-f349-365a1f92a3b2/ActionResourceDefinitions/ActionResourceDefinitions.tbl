@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="1f196a87-8d84-424d-badc-a3d11c5b8d23">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e16d2464-b4ab-404f-99b0-de5ce9c35511" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="FirstmindFocus" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3344cbfeg9c5agf224g8219gbd2778fe00cc" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc95ffc86g2159ga12ag9eafgf82993bdaa50" version="1" />
+        <field name="MaxLevel" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MaxValue" type="IntegerTableFieldDefinition" value="2" />
+        <field name="ReplenishType" type="FixedStringTableFieldDefinition" value="Rest" />
+        <field name="ShowOnActionResourcePanel" type="BoolTableFieldDefinition" value="True" />
+        <field name="Error" type="TranslatedStringTableFieldDefinition" handle="h42894b22gd912gcfc7g8690gf997a5b47d1c" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="509c2a1e-b36e-425b-a46e-b040406cef38" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="Interrupt_LifeSurge_Charge" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h580df885gc36bg9bd5g4dd3g52a25ed76161" version="1" />
+        <field name="MaxLevel" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MaxValue" type="IntegerTableFieldDefinition" value="2" />
+        <field name="ReplenishType" type="FixedStringTableFieldDefinition" value="Rest" />
+        <field name="IsHidden" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

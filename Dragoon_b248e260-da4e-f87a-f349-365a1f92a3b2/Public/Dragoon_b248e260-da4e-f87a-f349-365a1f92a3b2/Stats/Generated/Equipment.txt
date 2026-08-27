@@ -1,0 +1,17 @@
+new equipment "EQP_DRG"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "GaeBolgSpear"
+add equipmentgroup
+add equipment entry "WyrmHelm"
+add equipmentgroup
+add equipment entry "WyrmBody"
+add equipmentgroup
+add equipment entry "WyrmArm"
+add equipmentgroup
+add equipment entry "WyrmFeet"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+

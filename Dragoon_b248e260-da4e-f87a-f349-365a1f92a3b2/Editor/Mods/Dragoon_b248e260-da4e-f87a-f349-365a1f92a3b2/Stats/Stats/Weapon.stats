@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a1fa1d2f-c335-4902-898c-4228c3c07d52">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e08adeb9-8b83-41f7-86a8-2ce5ce1a37c9" />
+        <field name="Name" type="NameTableFieldDefinition" value="GaeBolgSpear" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6a3cb483-fa5c-4fd5-9e9f-a35f8be4f20d" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
+        <field name="WeaponFunctors" type="StringTableFieldDefinition" value="IF(not SavingThrow(Ability.Dexterity, 15)):ApplyStatus(BLINDED, 100, 2);" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="330" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="GaeBolgBlind;PiercetheHide;DragonSlayerDRG;DragonSlayerDRG;DragonSlayerDRG2;GaeBolgEffect;" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6e0a5ad9-1e17-4305-a7c2-0043347ff077" />
+        <field name="ItemGroup" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponProperty(Magical)" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="d24c441f-7ebe-4229-8522-cf34c257ff20" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="5" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

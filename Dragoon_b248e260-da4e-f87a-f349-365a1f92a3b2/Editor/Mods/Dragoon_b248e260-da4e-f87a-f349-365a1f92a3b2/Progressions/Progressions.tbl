@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="53912403-fe14-4ce0-89aa-96acb1dee21a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0fdf74a2-429a-49e5-8c3c-b75efbfab886" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="50f0c603-48f9-449f-adc7-15b79a2fa863" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DRGFFXIV" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="LifeSurge2TT;LifeSurge;DragoonSlay;Level1DRG;ComboRoto;" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor);Proficiency(Spears);Proficiency(SimpleWeapons);Proficiency(Tridents);Proficiency(Halberds);Proficiency(Glaives);Proficiency(Pikes);" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="SelectSkills(a8c6a5f5-721f-437d-8217-075869242a91,2);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1143fa31-f33d-45b1-bc07-dc3988af6d7a" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="50f0c603-48f9-449f-adc7-15b79a2fa863" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DRGFFXIV" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="LifeSurge2TT;LifeSurge;Level1DRG;" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor);Proficiency(Spears);Proficiency(SimpleWeapons);Proficiency(Tridents);Proficiency(Halberds);Proficiency(Glaives);Proficiency(Pikes);" />
+        <field name="IsMulticlass" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6b193d7f-bcfb-4fe0-bf1f-53a9d118ebef" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="50f0c603-48f9-449f-adc7-15b79a2fa863" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DRGFFXIV" />
+        <field name="Level" type="ByteTableFieldDefinition" value="2" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="649c93db-e03f-4937-9911-a4967e317632" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="50f0c603-48f9-449f-adc7-15b79a2fa863" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DRGFFXIV" />
+        <field name="Level" type="ByteTableFieldDefinition" value="3" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="Level3DRG;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d45880f4-4ecc-4fb2-9d2d-82193a731498" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="50f0c603-48f9-449f-adc7-15b79a2fa863" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DRGFFXIV" />
+        <field name="Level" type="ByteTableFieldDefinition" value="4" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="DragoonLeap;Level4DRG;Level4Jump;" />
+        <field name="AllowImprovement" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="48e222c8-2424-41f6-8fe4-ea5d124c4096" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="50f0c603-48f9-449f-adc7-15b79a2fa863" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DRGFFXIV" />
+        <field name="Level" type="ByteTableFieldDefinition" value="5" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="AOERot;AOERoto;Level5DRG" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f73f92c7-eafa-4c4f-bdeb-17eb9ee0b56e" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="50f0c603-48f9-449f-adc7-15b79a2fa863" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DRGFFXIV" />
+        <field name="Level" type="ByteTableFieldDefinition" value="6" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f8073722-4b53-4dc6-b594-7b233b1e5af4" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="50f0c603-48f9-449f-adc7-15b79a2fa863" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DRGFFXIV" />
+        <field name="Level" type="ByteTableFieldDefinition" value="7" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="LifeSurge2;Level7DRG;NastrondDRG;" />
+        <field name="PassivesRemoved" type="StringTableFieldDefinition" value="LifeSurge;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_8" />
+        <field name="UUID" type="IdTableFieldDefinition" value="373e135a-7493-4ddb-83cd-7638407429d5" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="50f0c603-48f9-449f-adc7-15b79a2fa863" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DRGFFXIV" />
+        <field name="Level" type="ByteTableFieldDefinition" value="8" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="VorpalUpg;DisemUpgr;" />
+        <field name="AllowImprovement" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_9" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e4412e1c-7741-47c9-a472-49d9774ba42d" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="50f0c603-48f9-449f-adc7-15b79a2fa863" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DRGFFXIV" />
+        <field name="Level" type="ByteTableFieldDefinition" value="9" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="FullUpgrade;ChaosUpgrade;JumpUpg;Level9Jump;MirageDRG;" />
+        <field name="PassivesRemoved" type="StringTableFieldDefinition" value="Level4Jump;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_10" />
+        <field name="UUID" type="IdTableFieldDefinition" value="eaff8171-8fef-48ca-a910-3021c281a676" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="50f0c603-48f9-449f-adc7-15b79a2fa863" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DRGFFXIV" />
+        <field name="Level" type="ByteTableFieldDefinition" value="10" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="FirstMindUnlock;Level10Jump;" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(FirstmindFocus,2,0);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_11" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8b8037fd-bdf2-46c4-b350-499eab6e9299" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="50f0c603-48f9-449f-adc7-15b79a2fa863" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DRGFFXIV" />
+        <field name="Level" type="ByteTableFieldDefinition" value="11" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="DRGRise;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_12" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a533ccfd-ad8d-4fec-8552-9b105d010158" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="50f0c603-48f9-449f-adc7-15b79a2fa863" />
+        <field name="FSName" type="StringTableFieldDefinition" value="DRGFFXIV" />
+        <field name="Level" type="ByteTableFieldDefinition" value="12" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="StarCrossDRG;" />
+        <field name="AllowImprovement" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

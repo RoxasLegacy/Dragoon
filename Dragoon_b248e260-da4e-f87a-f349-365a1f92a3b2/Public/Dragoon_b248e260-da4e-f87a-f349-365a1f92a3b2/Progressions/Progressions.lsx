@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor);Proficiency(Spears);Proficiency(SimpleWeapons);Proficiency(Tridents);Proficiency(Halberds);Proficiency(Glaives);Proficiency(Pikes);"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="DRGFFXIV"/>
+                    <attribute id="PassivesAdded" type="LSString" value="LifeSurge2TT;LifeSurge;DragoonSlay;Level1DRG;ComboRoto;"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(a8c6a5f5-721f-437d-8217-075869242a91,2);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="50f0c603-48f9-449f-adc7-15b79a2fa863"/>
+                    <attribute id="UUID" type="guid" value="0fdf74a2-429a-49e5-8c3c-b75efbfab886"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor);Proficiency(Spears);Proficiency(SimpleWeapons);Proficiency(Tridents);Proficiency(Halberds);Proficiency(Glaives);Proficiency(Pikes);"/>
+                    <attribute id="IsMulticlass" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="DRGFFXIV"/>
+                    <attribute id="PassivesAdded" type="LSString" value="LifeSurge2TT;LifeSurge;Level1DRG;"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="50f0c603-48f9-449f-adc7-15b79a2fa863"/>
+                    <attribute id="UUID" type="guid" value="1143fa31-f33d-45b1-bc07-dc3988af6d7a"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="DRGFFXIV"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="50f0c603-48f9-449f-adc7-15b79a2fa863"/>
+                    <attribute id="UUID" type="guid" value="6b193d7f-bcfb-4fe0-bf1f-53a9d118ebef"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="DRGFFXIV"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Level3DRG;"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="50f0c603-48f9-449f-adc7-15b79a2fa863"/>
+                    <attribute id="UUID" type="guid" value="649c93db-e03f-4937-9911-a4967e317632"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="DRGFFXIV"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DragoonLeap;Level4DRG;Level4Jump;"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="50f0c603-48f9-449f-adc7-15b79a2fa863"/>
+                    <attribute id="UUID" type="guid" value="d45880f4-4ecc-4fb2-9d2d-82193a731498"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="DRGFFXIV"/>
+                    <attribute id="PassivesAdded" type="LSString" value="AOERot;AOERoto;Level5DRG"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="50f0c603-48f9-449f-adc7-15b79a2fa863"/>
+                    <attribute id="UUID" type="guid" value="48e222c8-2424-41f6-8fe4-ea5d124c4096"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="DRGFFXIV"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="50f0c603-48f9-449f-adc7-15b79a2fa863"/>
+                    <attribute id="UUID" type="guid" value="f73f92c7-eafa-4c4f-bdeb-17eb9ee0b56e"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="DRGFFXIV"/>
+                    <attribute id="PassivesAdded" type="LSString" value="LifeSurge2;Level7DRG;NastrondDRG;"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="LifeSurge;"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="50f0c603-48f9-449f-adc7-15b79a2fa863"/>
+                    <attribute id="UUID" type="guid" value="f8073722-4b53-4dc6-b594-7b233b1e5af4"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="DRGFFXIV"/>
+                    <attribute id="PassivesAdded" type="LSString" value="VorpalUpg;DisemUpgr;"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="50f0c603-48f9-449f-adc7-15b79a2fa863"/>
+                    <attribute id="UUID" type="guid" value="373e135a-7493-4ddb-83cd-7638407429d5"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="DRGFFXIV"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FullUpgrade;ChaosUpgrade;JumpUpg;Level9Jump;MirageDRG;"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Level4Jump;"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="50f0c603-48f9-449f-adc7-15b79a2fa863"/>
+                    <attribute id="UUID" type="guid" value="e4412e1c-7741-47c9-a472-49d9774ba42d"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FirstmindFocus,2,0);"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="DRGFFXIV"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FirstMindUnlock;Level10Jump;"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="50f0c603-48f9-449f-adc7-15b79a2fa863"/>
+                    <attribute id="UUID" type="guid" value="eaff8171-8fef-48ca-a910-3021c281a676"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="DRGFFXIV"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DRGRise;"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="50f0c603-48f9-449f-adc7-15b79a2fa863"/>
+                    <attribute id="UUID" type="guid" value="8b8037fd-bdf2-46c4-b350-499eab6e9299"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="DRGFFXIV"/>
+                    <attribute id="PassivesAdded" type="LSString" value="StarCrossDRG;"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="50f0c603-48f9-449f-adc7-15b79a2fa863"/>
+                    <attribute id="UUID" type="guid" value="a533ccfd-ad8d-4fec-8552-9b105d010158"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

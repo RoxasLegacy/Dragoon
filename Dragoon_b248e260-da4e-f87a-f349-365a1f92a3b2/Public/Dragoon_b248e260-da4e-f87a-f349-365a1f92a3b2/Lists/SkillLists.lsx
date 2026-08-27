@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="SkillLists">
+        <node id="root">
+            <children>
+                <node id="SkillList">
+                    <attribute id="Name" type="FixedString" value="DRG Skills"/>
+                    <attribute id="Skills" type="LSString" value="Acrobatics, Athletics, Intimidation, Nature, Survival"/>
+                    <attribute id="UUID" type="guid" value="a8c6a5f5-721f-437d-8217-075869242a91"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

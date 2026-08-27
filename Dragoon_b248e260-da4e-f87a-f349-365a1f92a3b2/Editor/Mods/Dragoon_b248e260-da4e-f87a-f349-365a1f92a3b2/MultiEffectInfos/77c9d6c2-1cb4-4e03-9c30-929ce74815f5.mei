@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="77c9d6c2-1cb4-4e03-9c30-929ce74815f5" OwnerUUID="00000000-0000-0000-0000-000000000000" Name="ChaosSpringCastEffect">
+  <EffectInfo UUID="129d43ab-ce60-4e98-8656-9eee8281d2ac" EffectResourceGuid="403ff280-455a-e61d-a1be-b0596e4c3c7b" DetachSource="false" DetachTarget="true" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="true" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" StartTextKey="VFX_Slash_Cast_01" DamageType="None" VerbalIntent="None" TargetBone="Dummy_CastFX" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>

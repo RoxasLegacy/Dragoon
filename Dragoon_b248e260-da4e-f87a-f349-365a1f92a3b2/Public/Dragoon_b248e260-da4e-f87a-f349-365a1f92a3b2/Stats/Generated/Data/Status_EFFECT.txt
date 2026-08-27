@@ -1,0 +1,10 @@
+new entry "GAEBOLG"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "StatusEffect" "e6c1c3b4-afd6-494c-895c-1e7291741d7f"
+
+new entry "GAEBOLGOFF"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "OnApplyFunctors" "RemoveStatus(GAEBOLG)"
+

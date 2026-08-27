@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Strength;Dexterity"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
+                    <attribute id="TableUUID" type="guid" value="50f0c603-48f9-449f-adc7-15b79a2fa863"/>
+                    <attribute id="UUID" type="guid" value="79e30970-4389-48f3-92a9-6e2eb237f5ec"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

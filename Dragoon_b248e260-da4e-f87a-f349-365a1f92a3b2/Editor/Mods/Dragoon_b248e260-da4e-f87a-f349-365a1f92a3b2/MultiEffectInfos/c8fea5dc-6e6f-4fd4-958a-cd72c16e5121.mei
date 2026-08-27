@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="c8fea5dc-6e6f-4fd4-958a-cd72c16e5121" OwnerUUID="00000000-0000-0000-0000-000000000000" Name="LifeSurgeStatusEffect">
+  <EffectInfo UUID="ea301424-0ca1-4ad8-bb02-79b059c107fd" EffectResourceGuid="1744b7ae-ed70-b1eb-0830-c02403f70312" DetachSource="false" DetachTarget="false" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="false" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" DamageType="None" VerbalIntent="None" TargetBone="Dummy_Root" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>

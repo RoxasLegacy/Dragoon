@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="f2396287-0ad6-403b-8045-f1bebbe18b2c" OwnerUUID="00000000-0000-0000-0000-000000000000" Name="ChaosThrustCastEffect">
+  <EffectInfo UUID="b4d0a29a-dda3-432e-8b4a-37775b061c01" EffectResourceGuid="e93f267c-ca74-9b9c-4064-3e174ff69c06" DetachSource="false" DetachTarget="true" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="true" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" StartTextKey="VFX_Slash_Cast_01" DamageType="None" VerbalIntent="None" TargetBone="Dummy_CastFX" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>

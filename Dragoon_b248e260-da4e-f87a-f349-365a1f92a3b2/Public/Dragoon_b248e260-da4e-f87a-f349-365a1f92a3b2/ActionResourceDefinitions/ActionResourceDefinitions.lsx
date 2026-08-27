@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="hc95ffc86g2159ga12ag9eafgf82993bdaa50" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3344cbfeg9c5agf224g8219gbd2778fe00cc" version="1"/>
+                    <attribute id="Error" type="TranslatedString" handle="h42894b22gd912gcfc7g8690gf997a5b47d1c" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="2"/>
+                    <attribute id="Name" type="FixedString" value="FirstmindFocus"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="e16d2464-b4ab-404f-99b0-de5ce9c35511"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h580df885gc36bg9bd5g4dd3g52a25ed76161" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="true"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="2"/>
+                    <attribute id="Name" type="FixedString" value="Interrupt_LifeSurge_Charge"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="UUID" type="guid" value="509c2a1e-b36e-425b-a46e-b040406cef38"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

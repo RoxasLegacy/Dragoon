@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="90f29a13-90ea-4687-a418-d1dbd925d243" OwnerUUID="00000000-0000-0000-0000-000000000000" Name="FangAndClawCast">
+  <EffectInfo UUID="8e580c8b-75aa-42e7-a722-d2eb7138813f" EffectResourceGuid="ae4b8bf5-f50f-4bff-faac-68060555bb59" DetachSource="true" DetachTarget="true" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="true" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" StartTextKey="VFX_Slash_Cast_01" DamageType="None" VerbalIntent="None" TargetBone="Dummy_CastFX" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>

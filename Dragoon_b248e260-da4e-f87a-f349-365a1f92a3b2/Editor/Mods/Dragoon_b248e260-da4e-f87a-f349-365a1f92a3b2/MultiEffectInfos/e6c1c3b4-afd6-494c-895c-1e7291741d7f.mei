@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="e6c1c3b4-afd6-494c-895c-1e7291741d7f" OwnerUUID="00000000-0000-0000-0000-000000000000" Name="GaeBolgStatusEffect">
+  <EffectInfo UUID="1ac04773-a161-4285-88f0-f1f8671b2d6e" EffectResourceGuid="efadfe56-fdda-5921-eb00-61f4bfc73050" DetachSource="false" DetachTarget="false" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="false" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" DamageType="None" VerbalIntent="None" TargetBone="Dummy_Root" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>
